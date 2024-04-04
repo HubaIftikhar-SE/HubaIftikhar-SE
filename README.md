@@ -1,4 +1,7 @@
-![logo](https://github.com/HubaIftikhar-SE/HubaIftikhar-SE/blob/main/1.png)
+<p align="center">
+  <img src="https://github.com/HubaIftikhar-SE/HubaIftikhar-SE/blob/main/1.png" alt="logo" style="transform: rotate(90deg);">
+</p>
+
 <h1 align="center">Hi 👋, I'm Huba Iftikhar</h1>
 <h3 align="center">Software Engineering Student: Exploring Python, Java, Website Development, and Server & Networking Fundamentals</h3>
 
