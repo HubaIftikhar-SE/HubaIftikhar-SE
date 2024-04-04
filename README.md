@@ -1,4 +1,4 @@
-![logo](https://github.com/HubaIftikhar-SE/HubaIftikhar-SE/blob/main/cover.jpeg)
+![logo](https://github.com/HubaIftikhar-SE/HubaIftikhar-SE/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Huba Iftikhar</h1>
 <h3 align="center">Software Engineering Student: Exploring Python, Java, Website Development, and Server & Networking Fundamentals</h3>
 
